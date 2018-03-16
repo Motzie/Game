@@ -424,3 +424,8 @@ LogInit: Object subsystem initialized
 [2018.03.16-17.41.38:093][249]SourceControl: [master 4204963] Wall Test
 [2018.03.16-17.41.38:093][249]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2018.03.16-17.41.38:097][249]SourceControl: Commited [master 4204963] Wall Test.
+[2018.03.16-17.43.34:284][760]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.16-17.43.34:383][760]EditorErrors: Warning: No assets to check in!
+[2018.03.16-17.46.19:679][656]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall9)
+[2018.03.16-17.46.20:919][773]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.03.16-17.46.58:013][726]LogSlate: Took 0.022599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
