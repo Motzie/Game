@@ -410,3 +410,17 @@ LogInit: Object subsystem initialized
 [2018.03.16-17.40.21:297][422]LogEditorActor: Deleted 1 Actors (0.011 secs)
 [2018.03.16-17.40.30:419][472]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
 [2018.03.16-17.40.30:516][472]EditorErrors: Warning: No assets to check in!
+[2018.03.16-17.41.09:119][108]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.16-17.41.09:219][108]EditorErrors: Warning: No assets to check in!
+[2018.03.16-17.41.13:922][650]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.16-17.41.14:101][650]LogSavePackage: Save=139.84ms
+[2018.03.16-17.41.14:101][650]LogSavePackage: Moving '../../../../../../Users/jonjo/Documents/GitHub/Game/Saved/ThirdPersonExampleMap0D2D168848EC43B6C7C0B6BDB0B9D69E.tmp' to '../../../../../../Users/jonjo/Documents/GitHub/Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.03.16-17.41.14:105][650]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonjo/Documents/GitHub/Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.03.16-17.41.14:491][650]LogSavePackage: Save=173.83ms
+[2018.03.16-17.41.14:491][650]LogSavePackage: Moving '../../../../../../Users/jonjo/Documents/GitHub/Game/Saved/ThirdPersonExampleMap_BuiltData6F4CCE5C4BCFACF2BFEE889FF0AE11E7.tmp' to '../../../../../../Users/jonjo/Documents/GitHub/Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.03.16-17.41.14:492][650]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonjo/Documents/GitHub/Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.03.16-17.41.19:584][249]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.03.16-17.41.37:933][249]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.03.16-17.41.38:093][249]SourceControl: [master 4204963] Wall Test
+[2018.03.16-17.41.38:093][249]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.03.16-17.41.38:097][249]SourceControl: Commited [master 4204963] Wall Test.
